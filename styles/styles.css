@@ -1,0 +1,184 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap');
+
+body {
+  background-color: #1b1b1d;
+  color: #f4f4f4;
+  font-family: 'Merriweather', serif;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+}
+
+.container {
+  max-width: 800px;
+  margin: 60px auto;
+  padding: 20px 40px;
+  background: rgba(30, 30, 35, 0.9);
+  border-radius: 10px;
+  box-shadow: 0 0 15px rgba(255, 255, 255, 0.1);
+}
+
+h1, h2, h3 {
+  color: #ffedc2;
+  text-align: center;
+}
+
+p {
+  font-size: 1.1em;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+a.choice {
+  display: block;
+  margin: 15px auto;
+  padding: 12px 20px;
+  background: #2e8b57;
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+  text-align: center;
+  border-radius: 8px;
+  width: fit-content;
+  transition: 0.3s;
+}
+
+a.choice:hover {
+  background: #3cb371;
+  transform: scale(1.05);
+}
+
+footer {
+  text-align: center;
+  font-size: 0.9em;
+  margin-top: 40px;
+  color: #999;
+}
+.ornithorynque-image {
+  max-width: 400px;  
+  width: 100%;      
+  height: auto;    
+  display: block;     
+  margin: 20px auto;  
+  border-radius: 10px; 
+}
+.cavernedebut-image {
+  max-width: 400px;   
+  width: 100%;        
+  height: auto;      
+  display: block;     
+  margin: 20px auto;  
+  border-radius: 10px; 
+}
+.caverneetroite-image {
+  max-width: 400px;   
+  width: 100%;        
+  height: auto;       
+  display: block;     
+  margin: 20px auto;  
+  border-radius: 10px; 
+}
+.noirceur-image {
+  max-width: 400px;   
+  width: 100%;       
+  height: auto;       
+  display: block;     
+  margin: 20px auto;  
+  border-radius: 10px; 
+}
+.amitieinseparable-image {
+  max-width: 400px;   
+  width: 100%;        
+  height: auto;       
+  display: block;     
+  margin: 20px auto;  
+  border-radius: 10px; 
+}
+.surface-image {
+  max-width: 400px;   
+  width: 100%;        
+  height: auto;       
+  display: block;     
+  margin: 20px auto;  
+  border-radius: 10px; 
+}
+.hibousage-image {
+  max-width: 400px;   
+  width: 100%;        
+  height: auto;       
+  display: block;     
+  margin: 20px auto;  
+  border-radius: 10px; 
+}
+.clairiere-image {
+  max-width: 400px;   
+  width: 100%;        
+  height: auto;       
+  display: block;     
+  margin: 20px auto;  
+  border-radius: 10px; 
+}
+.viepaisible-image {
+  max-width: 400px;   
+  width: 100%;        
+  height: auto;       
+  display: block;     
+  margin: 20px auto;  
+  border-radius: 10px; 
+}
+.rivierescintillante-image {
+  max-width: 400px;   
+  width: 100%;        
+  height: auto;       
+  display: block;     
+  margin: 20px auto;  
+  border-radius: 10px; 
+}
+.ornithorynquemourant-image {
+  max-width: 400px;   
+  width: 100%;        
+  height: auto;       
+  display: block;     
+  margin: 20px auto;  
+  border-radius: 10px; 
+}
+.renardruse-image {
+  max-width: 400px;   
+  width: 100%;        
+  height: auto;       
+  display: block;     
+  margin: 20px auto;  
+  border-radius: 10px; 
+}
+.renardruse-image {
+  max-width: 400px;   
+  width: 100%;        
+  height: auto;       
+  display: block;     
+  margin: 20px auto;  
+  border-radius: 10px; 
+}
+.ornithorynqueperdu-image {
+  max-width: 400px;   
+  width: 100%;        
+  height: auto;       
+  display: block;     
+  margin: 20px auto;  
+  border-radius: 10px; 
+}
+.foretinconnu-image {
+  max-width: 400px;   
+  width: 100%;        
+  height: auto;       
+  display: block;     
+  margin: 20px auto;  
+  border-radius: 10px; 
+}
+.village-image {
+  max-width: 400px;   
+  width: 100%;        
+  height: auto;       
+  display: block;     
+  margin: 20px auto;  
+  border-radius: 10px; 
+}
